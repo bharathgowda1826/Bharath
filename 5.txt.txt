@@ -1,3 +1,7 @@
 usn is003
 nishanth
 NITKFKJ
+<<<<<<< HEAD
+=======
+jbfjyhwssg
+>>>>>>> origin/Feature-branch
